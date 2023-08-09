@@ -1,0 +1,23 @@
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\bin\Debug\CheckPecas.exe.config
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\bin\Debug\CheckPecas.exe
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\bin\Debug\CheckPecas.pdb
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.frmLogin.resources
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.Properties.Resources.resources
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.csproj.GenerateResource.cache
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.exe
+C:\Users\Senai.CEPEAS21104187\Documents\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.pdb
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\bin\Debug\CheckPecas.exe.config
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\bin\Debug\CheckPecas.exe
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\bin\Debug\CheckPecas.pdb
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.frmLogin.resources
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.Properties.Resources.resources
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.csproj.GenerateResource.cache
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.exe
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.pdb
+C:\Users\Senai.CEPEAS21104013\Desktop\SAP 2018 - Hoerkley\CheckPecas - Visual Studio\CheckPecas\CheckPecas\obj\Debug\CheckPecas.frmControlePecaProduzidas.resources
